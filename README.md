@@ -35,6 +35,6 @@ Orientador: Gilberto Amado De Azevedo Cysneiros Filho
 </div>
 
 ### Updates:
-Atualizações no projeto serão destacadas neste local. O projeto está em constante atualização.
+Atualizações no projeto serão destacadas neste local. O projeto está atualização.
 
 
