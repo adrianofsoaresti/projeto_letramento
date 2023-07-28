@@ -7,6 +7,7 @@ Uma solução focada para auxiliar os professores da alfabetização do  Municí
 3. Ao selecionar uma sílaba errada será armazenada a quantidade de erros para uma análise futura de desempenho do aluno.
 4. Ao selecionar uma sílaba correta o aluno receberá uma pontuação.  
 5. Serão verificadas as sílabas que foram erradas com mais frequência para se ter uma análise geral da turma.
+
 Orientador: Gilberto Amado De Azevedo Cysneiros Filho
 
 ### Apresentação:
