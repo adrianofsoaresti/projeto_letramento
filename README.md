@@ -26,6 +26,9 @@ Orientador: Gilberto Amado De Azevedo Cysneiros Filho
   <img width="200px" src="assets/github/screen2_1.jpeg">
   <img width="200px" src="assets/github/screen2_2.jpeg">
   <img width="200px" src="assets/github/screen2_3.jpeg">
+   <img width="200px" src="assets/github/screen2_4.jpeg">
+   <img width="200px" src="assets/github/screen2_5.jpeg">
+   <img width="200px" src="assets/github/screen2_6.jpeg">
   <img width="200px" src="assets/github/screen3.jpeg">
 </div>
 
